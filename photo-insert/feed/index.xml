@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Photo insert	</title>
+	<atom:link href="/photo-insert/feed/" rel="self" type="application/rss+xml" />
+	<link>/photo-insert/</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Jan 2024 04:36:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		By: Qing		</title>
+		<link>/photo-insert/#comment-3</link>
+
+		<dc:creator><![CDATA[Qing]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2010 20:24:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=18#comment-3</guid>
+
+					<description><![CDATA[不错不错。我也回去学学。]]></description>
+			<content:encoded><![CDATA[<p>不错不错。我也回去学学。</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
