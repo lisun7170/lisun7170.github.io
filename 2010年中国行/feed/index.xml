@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 2010年中国行照片集锦	</title>
+	<atom:link href="/2010%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%A1%8C/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010%e5%b9%b4%e4%b8%ad%e5%9b%bd%e8%a1%8c/</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Mar 2013 22:36:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+</channel>
+</rss>

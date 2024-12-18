@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 20100703-温哥华转机	</title>
+	<atom:link href="/20100704-%E6%B8%A9%E5%93%A5%E5%8D%8E%E8%BD%AC%E6%9C%BA/feed/" rel="self" type="application/rss+xml" />
+	<link>/20100704-%e6%b8%a9%e5%93%a5%e5%8d%8e%e8%bd%ac%e6%9c%ba/</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Mar 2013 22:44:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+</channel>
+</rss>

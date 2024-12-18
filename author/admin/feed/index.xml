@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 11 Aug 2024 22:31:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>感恩2023</title>
+		<link>/%e6%84%9f%e6%81%a92023/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 03:29:25 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">/?p=3070</guid>
+
+					<description><![CDATA[新年伊始 春 Lake Tahoe 孩子們 母親節 夏 Edmunds 紐約 秋 Airshow 孩子們 感恩節 Meaningful 聖誕]]></description>
+		
+		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-02-春.mp4" length="191863416" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-03-LakeTahoe.mp4" length="38703968" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-04-LakeTahoe.mp4" length="33129127" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-05-Reno.mp4" length="19386219" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-07-孩子們.mp4" length="161268685" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-09-夏.mp4" length="492388426" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-10-Edmunds.mp4" length="56759233" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-12-秋.mp4" length="303525155" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-13-AirShow.mp4" length="51731659" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-14-孩子們.mp4" length="226691915" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-16-聖誕.mp4" length="42936296" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-01-新年伊始.mp4" length="59843189" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-06-LakeTahoe.mp4" length="31692846" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-08-母親節.mp4" length="16583981" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-11-紐約.mp4" length="144668695" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2023-15-感恩節.mp4" length="11510328" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>感恩2022</title>
+		<link>/%e6%84%9f%e6%81%a92022/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 03:28:03 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">/?p=3086</guid>
+
+					<description><![CDATA[春夏 義大利小姨婚禮 義大利旅遊 秋冬]]></description>
+		
+		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2022-01-春夏.mp4" length="0" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2022-04-秋冬.mp4" length="0" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 上海照片	</title>
+	<atom:link href="/%E4%B8%8A%E6%B5%B7%E4%B8%96%E5%8D%9A%E7%85%A7%E7%89%87%E4%B8%8A%E7%BD%91/feed/" rel="self" type="application/rss+xml" />
+	<link>/%e4%b8%8a%e6%b5%b7%e4%b8%96%e5%8d%9a%e7%85%a7%e7%89%87%e4%b8%8a%e7%bd%91/</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Mar 2013 22:42:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+</channel>
+</rss>
