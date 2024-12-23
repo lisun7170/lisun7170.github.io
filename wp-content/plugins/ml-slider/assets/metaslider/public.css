@@ -424,6 +424,18 @@ div.metaslider .slider-wrapper .nivo-controlNav a {
 	padding: 10px !important;
 	margin: 0 !important;
 }
+
+/* Progress Bar */
+.flex-progress-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 4px;
+    width: 0%;
+    background-color: #fff;
+    transition: width 2s linear;
+    z-index: 999;
+}
 @media only screen and (max-width : 767px) {
     .metaslider.ms-theme-precognition .flex-control-nav li a {
         text-indent: -9999px !important;
