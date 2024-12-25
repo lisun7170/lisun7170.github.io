@@ -12,7 +12,7 @@
 	<atom:link href="/category/general/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 18 Dec 2024 05:58:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Dec 2024 05:25:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -52,21 +52,20 @@
 
 			</item>
 		<item>
-		<title>感恩2024</title>
-		<link>/%e6%84%9f%e6%81%a92024/</link>
+		<title>感恩 2004</title>
+		<link>/%e6%84%9f%e6%81%a9-2004/</link>
 		
 		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
-		<pubDate>Tue, 20 Feb 2024 07:11:34 +0000</pubDate>
-				<category><![CDATA[Articles]]></category>
+		<pubDate>Sat, 19 Aug 2017 19:32:25 +0000</pubDate>
+				<category><![CDATA[2004]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[Photos]]></category>
 		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">/?p=3372</guid>
+		<guid isPermaLink="false">/?p=3595</guid>
 
-					<description><![CDATA[郵輪-春節 蘇野協夫人張戈菲春節期間造訪洛杉磯。 1. 節前四人（蘇野，張戈菲，孫李，哈曉寧）乘郵輪遊玩墨西哥 2. 初一洛杉磯海濱踏浪，訪看Edmunds]]></description>
+					<description><![CDATA[2004 回顧探親]]></description>
 		
 		
-		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2024-郵輪-春節.mp4" length="661257817" type="video/mp4" />
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2004-%E5%9B%9E%E5%9C%8B%E6%8E%A2%E8%A6%AA.mp4" length="52647819" type="video/mp4" />
 
 			</item>
 	</channel>

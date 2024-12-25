@@ -12,7 +12,7 @@
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 18 Dec 2024 06:07:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Dec 2024 05:22:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,8 +25,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 19 Dec 2023 03:29:25 +0000</pubDate>
-				<category><![CDATA[Articles]]></category>
-		<category><![CDATA[General]]></category>
+				<category><![CDATA[2023]]></category>
 		<category><![CDATA[Photos]]></category>
 		<category><![CDATA[Videos]]></category>
 		<guid isPermaLink="false">/?p=3070</guid>
@@ -58,8 +57,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 19 Dec 2023 03:28:03 +0000</pubDate>
-				<category><![CDATA[Articles]]></category>
-		<category><![CDATA[General]]></category>
+				<category><![CDATA[2022]]></category>
 		<category><![CDATA[Photos]]></category>
 		<category><![CDATA[Videos]]></category>
 		<guid isPermaLink="false">/?p=3086</guid>
