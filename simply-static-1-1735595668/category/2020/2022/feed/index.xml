@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2022</title>
+	<atom:link href="/category/2020/2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 Dec 2024 05:22:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>感恩2022</title>
+		<link>/%e6%84%9f%e6%81%a92022/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 03:28:03 +0000</pubDate>
+				<category><![CDATA[2022]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">/?p=3086</guid>
+
+					<description><![CDATA[春夏 義大利小姨婚禮 義大利旅遊 秋冬]]></description>
+		
+		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2022-01-春夏.mp4" length="0" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2022-04-秋冬.mp4" length="0" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>
