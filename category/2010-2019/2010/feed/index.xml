@@ -12,7 +12,7 @@
 	<atom:link href="/category/2010-2019/2010/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 25 Dec 2024 05:00:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Dec 2024 05:52:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,30 +40,22 @@
 
 			</item>
 		<item>
-		<title>感恩 1994</title>
-		<link>/%e6%84%9f%e6%81%a9-1994/</link>
+		<title>20100708a-姥姥家 （二）</title>
+		<link>/%e5%a7%a5%e5%a7%a5%e5%ae%b6-%ef%bc%88%e4%ba%8c%ef%bc%89/</link>
+					<comments>/%e5%a7%a5%e5%a7%a5%e5%ae%b6-%ef%bc%88%e4%ba%8c%ef%bc%89/#respond</comments>
 		
 		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
-		<pubDate>Wed, 16 Aug 2017 19:49:01 +0000</pubDate>
-				<category><![CDATA[1994]]></category>
-		<category><![CDATA[1999-]]></category>
-		<category><![CDATA[2000-2009]]></category>
-		<category><![CDATA[2010]]></category>
-		<category><![CDATA[2010-2019]]></category>
-		<category><![CDATA[2011]]></category>
-		<category><![CDATA[2012]]></category>
-		<category><![CDATA[2013]]></category>
-		<category><![CDATA[2014]]></category>
-		<category><![CDATA[2020+]]></category>
+		<pubDate>Sun, 26 Sep 2010 22:15:55 +0000</pubDate>
+				<category><![CDATA[2010]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">/?p=3601</guid>
+		<guid isPermaLink="false">/?page_id=1190</guid>
 
-					<description><![CDATA[1994年George生日，Mathers Day, Rosy生日]]></description>
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>/%e5%a7%a5%e5%a7%a5%e5%ae%b6-%ef%bc%88%e4%ba%8c%ef%bc%89/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
-		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/1994-感恩回顧.mp4" length="452381549" type="video/mp4" />
-
 			</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="/category/2010-2019/2014/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 25 Dec 2024 05:00:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Dec 2024 05:36:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,30 +39,19 @@
 
 			</item>
 		<item>
-		<title>感恩 1994</title>
-		<link>/%e6%84%9f%e6%81%a9-1994/</link>
+		<title>2014.2.1-2014.2.4 Las Vegas and Le Reve the Dream at Wynn</title>
+		<link>/our-trip-to-lv-and-le-reve-the-dream-show/</link>
 		
-		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
-		<pubDate>Wed, 16 Aug 2017 19:49:01 +0000</pubDate>
-				<category><![CDATA[1994]]></category>
-		<category><![CDATA[1999-]]></category>
-		<category><![CDATA[2000-2009]]></category>
-		<category><![CDATA[2010]]></category>
-		<category><![CDATA[2010-2019]]></category>
-		<category><![CDATA[2011]]></category>
-		<category><![CDATA[2012]]></category>
-		<category><![CDATA[2013]]></category>
-		<category><![CDATA[2014]]></category>
-		<category><![CDATA[2020+]]></category>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 08 Feb 2014 21:05:48 +0000</pubDate>
+				<category><![CDATA[2014]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">/?p=3601</guid>
+		<guid isPermaLink="false">/?p=2731</guid>
 
-					<description><![CDATA[1994年George生日，Mathers Day, Rosy生日]]></description>
+					<description><![CDATA[After a celebration of Chinese New Year of Horse, Nancy and I went to Las Vegas for an overdue vacation. Our brother Xi and his wife bough the vacation package for us last year. THANK YOU! We originally planned to take the vacation in January but we had to postpone it till this time because [&#8230;]]]></description>
 		
 		
-		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/1994-感恩回顧.mp4" length="452381549" type="video/mp4" />
-
+		
 			</item>
 	</channel>
 </rss>
