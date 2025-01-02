@@ -12,7 +12,7 @@
 	<atom:link href="/category/2010-2019/2011/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 24 Dec 2024 05:45:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Jan 2025 20:02:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,47 +20,44 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
-		<title>感恩2011</title>
-		<link>/%e6%84%9f%e6%81%a92011/</link>
+		<title>2011 大團聚</title>
+		<link>/2011-%e5%a4%a7%e5%9c%98%e8%81%9a/</link>
 		
 		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
-		<pubDate>Tue, 22 Aug 2017 04:29:20 +0000</pubDate>
-				<category><![CDATA[2011]]></category>
-		<category><![CDATA[Photos]]></category>
-		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">/?p=3472</guid>
+		<pubDate>Wed, 01 Jan 2025 20:01:59 +0000</pubDate>
+				<category><![CDATA[2010-2019]]></category>
+		<category><![CDATA[2011]]></category>
+		<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/?p=3820</guid>
 
-					<description><![CDATA[接奶奶回京 移靈 回老宅 合墓 祭典 孫家大团聚 （一） （二） （三） 祝酒詞]]></description>
+					<description><![CDATA[孫家大團聚 （一） （二） （三） 祝酒詞]]></description>
 		
 		
-		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110924_移灵.mp4" length="423764932" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110928_散记.mp4" length="1017225437" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110928_合墓.mp4" length="315514724" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110928_祭奠.mp4" length="348599153" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚1720.mp4" length="340913914" type="video/mp4" />
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚1720.mp4" length="340913914" type="video/mp4" />
 <enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚2720.mp4" length="313122747" type="video/mp4" />
 <enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚3720.mp4" length="961996631" type="video/mp4" />
 <enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_祝酒辞720.mp4" length="125665935" type="video/mp4" />
 
 			</item>
 		<item>
-		<title>Wang Yong/Wang Yuehe (2011.7.1-7.4)</title>
-		<link>/wang-yong-wang-yuehe-2011-7-1-7-4/</link>
-					<comments>/wang-yong-wang-yuehe-2011-7-1-7-4/#respond</comments>
+		<title>2011 小橋婚禮</title>
+		<link>/2011-%e5%b0%8f%e6%a9%8b%e5%a9%9a%e7%a6%ae/</link>
 		
 		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
-		<pubDate>Wed, 06 Jul 2011 05:14:39 +0000</pubDate>
-				<category><![CDATA[2011]]></category>
+		<pubDate>Wed, 01 Jan 2025 19:30:40 +0000</pubDate>
+				<category><![CDATA[2010-2019]]></category>
+		<category><![CDATA[2011]]></category>
 		<category><![CDATA[General]]></category>
-		<category><![CDATA[Photos]]></category>
-		<guid isPermaLink="false">/?p=1462</guid>
+		<guid isPermaLink="false">/?p=3810</guid>
 
-					<description><![CDATA[]]></description>
-		
-					<wfw:commentRss>/wang-yong-wang-yuehe-2011-7-1-7-4/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<description><![CDATA[婚前 婚日 婚禮]]></description>
 		
 		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2011/20111003_wedday.mp4" length="0" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2011/20111003_wedding.mp4" length="0" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2011/20111001-02_bj.mp4" length="0" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2011/20110928-29_bj.mp4" length="0" type="video/mp4" />
+
 			</item>
 	</channel>
 </rss>
