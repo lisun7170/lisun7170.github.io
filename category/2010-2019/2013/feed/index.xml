@@ -12,12 +12,28 @@
 	<atom:link href="/category/2010-2019/2013/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 01 Jan 2025 23:06:39 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jan 2025 02:25:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
-</channel>
+	<item>
+		<title>教會活動 （2007-2013）</title>
+		<link>/church-videos/</link>
+		
+		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
+		<pubDate>Tue, 27 Dec 2016 22:33:34 +0000</pubDate>
+				<category><![CDATA[2010-2019]]></category>
+		<category><![CDATA[2013]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">/?p=2938</guid>
+
+					<description><![CDATA[2007聖誕晚會－信耶稣好处多 2008聖誕晚會－信主十不怕 2009聖誕晚會－成語相聲 2010聖誕晚會－讀經禱告 2010聖誕晚會－詩朗誦 2012聖誕晚會－說教會 2013聖誕晚會－開幕詞]]></description>
+		
+		
+		
+			</item>
+	</channel>
 </rss>

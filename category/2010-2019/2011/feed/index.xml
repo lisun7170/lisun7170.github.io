@@ -12,7 +12,7 @@
 	<atom:link href="/category/2010-2019/2011/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 01 Jan 2025 20:02:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jan 2025 05:28:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,6 +22,7 @@
 	<item>
 		<title>2011 大團聚</title>
 		<link>/2011-%e5%a4%a7%e5%9c%98%e8%81%9a/</link>
+					<comments>/2011-%e5%a4%a7%e5%9c%98%e8%81%9a/#respond</comments>
 		
 		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
 		<pubDate>Wed, 01 Jan 2025 20:01:59 +0000</pubDate>
@@ -32,6 +33,8 @@
 
 					<description><![CDATA[孫家大團聚 （一） （二） （三） 祝酒詞]]></description>
 		
+					<wfw:commentRss>/2011-%e5%a4%a7%e5%9c%98%e8%81%9a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚1720.mp4" length="340913914" type="video/mp4" />
 <enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚2720.mp4" length="313122747" type="video/mp4" />

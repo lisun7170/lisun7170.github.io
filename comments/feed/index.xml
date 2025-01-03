@@ -11,7 +11,7 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Apr 2013 23:21:57 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jun 2011 00:03:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,29 +19,33 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>
-		Comment on 2011-9-4 Jet Boat Ride by ladongbeiren		</title>
-		<link>/2011-9-4-jet-boat-ride/#comment-265</link>
+		Comment on IMG123 by Rosy		</title>
+		<link>/picking-up-cherries-2011-6-25/img123/#main/#comment-227</link>
 
-		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
-		<pubDate>Tue, 13 Sep 2011 19:13:33 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1529#comment-265</guid>
+		<dc:creator><![CDATA[Rosy]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2011 00:03:26 +0000</pubDate>
+		<guid isPermaLink="false">/wp-content/uploads/2011/06/IMG123.jpg#comment-227</guid>
 
-					<description><![CDATA[Rosy has an exact comment :)]]></description>
-			<content:encoded><![CDATA[<p>Rosy has an exact comment 🙂</p>
+					<description><![CDATA[Wow! Cool! :) Looks like you two had a lot of fun... wish I were there to help you eat the cherries!!
+-r]]></description>
+			<content:encoded><![CDATA[<p>Wow! Cool! 🙂 Looks like you two had a lot of fun&#8230; wish I were there to help you eat the cherries!!<br />
+-r</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
-		Comment on 2011-9-4 Jet Boat Ride by George		</title>
-		<link>/2011-9-4-jet-boat-ride/#comment-263</link>
+		Comment on expo24a by LULU		</title>
+		<link>/?attachment_id=507#main/#comment-94</link>
 
-		<dc:creator><![CDATA[George]]></dc:creator>
-		<pubDate>Sun, 11 Sep 2011 05:10:04 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1529#comment-263</guid>
+		<dc:creator><![CDATA[LULU]]></dc:creator>
+		<pubDate>Wed, 16 Feb 2011 23:29:08 +0000</pubDate>
+		<guid isPermaLink="false">/wp-content/uploads/2010/08/expo24a.jpg#comment-94</guid>
 
-					<description><![CDATA[Haha, the background music is a christmas song!]]></description>
-			<content:encoded><![CDATA[<p>Haha, the background music is a christmas song!</p>
+					<description><![CDATA[看你们来了。你太太莲西好像胖了也好看了，儿子长这么高了，女儿也成了个漂亮的大姑娘，真好！想想没见你们该有七
+八年了吧？]]></description>
+			<content:encoded><![CDATA[<p>看你们来了。你太太莲西好像胖了也好看了，儿子长这么高了，女儿也成了个漂亮的大姑娘，真好！想想没见你们该有七<br />
+八年了吧？</p>
 ]]></content:encoded>
 		
 			</item>

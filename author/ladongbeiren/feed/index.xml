@@ -12,7 +12,7 @@
 	<atom:link href="/author/ladongbeiren/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 01 Jan 2025 20:02:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jan 2025 04:24:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,43 +20,40 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
-		<title>2011 大團聚</title>
-		<link>/2011-%e5%a4%a7%e5%9c%98%e8%81%9a/</link>
+		<title>2015 北海，深圳</title>
+		<link>/2015-%e5%8c%97%e6%b5%b7%e7%94%9a%e8%87%b3/</link>
 		
 		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
-		<pubDate>Wed, 01 Jan 2025 20:01:59 +0000</pubDate>
+		<pubDate>Fri, 03 Jan 2025 04:23:57 +0000</pubDate>
 				<category><![CDATA[2010-2019]]></category>
-		<category><![CDATA[2011]]></category>
-		<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=3820</guid>
+		<category><![CDATA[2015]]></category>
+		<guid isPermaLink="false">/?p=3861</guid>
 
-					<description><![CDATA[孫家大團聚 （一） （二） （三） 祝酒詞]]></description>
+					<description><![CDATA[北海 深圳]]></description>
 		
 		
-		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚1720.mp4" length="340913914" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚2720.mp4" length="313122747" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚3720.mp4" length="961996631" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_祝酒辞720.mp4" length="125665935" type="video/mp4" />
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2015/2015_beihai.mp4" length="80121398" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2015/2015_sz.mp4" length="92721825" type="video/mp4" />
 
 			</item>
 		<item>
-		<title>2011 小橋婚禮</title>
-		<link>/2011-%e5%b0%8f%e6%a9%8b%e5%a9%9a%e7%a6%ae/</link>
+		<title>2015 毛冬琪婚禮</title>
+		<link>/2015-%e6%af%9b%e5%86%ac%e7%90%aa%e5%a9%9a%e7%a6%ae/</link>
 		
 		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
-		<pubDate>Wed, 01 Jan 2025 19:30:40 +0000</pubDate>
+		<pubDate>Fri, 03 Jan 2025 04:04:07 +0000</pubDate>
 				<category><![CDATA[2010-2019]]></category>
-		<category><![CDATA[2011]]></category>
+		<category><![CDATA[2015]]></category>
 		<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">/?p=3810</guid>
+		<guid isPermaLink="false">/?p=3848</guid>
 
-					<description><![CDATA[婚前 婚日 婚禮]]></description>
+					<description><![CDATA[新婚 吉首婚宴]]></description>
 		
 		
-		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2011/20111003_wedday.mp4" length="0" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2011/20111003_wedding.mp4" length="0" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2011/20111001-02_bj.mp4" length="0" type="video/mp4" />
-<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2011/20110928-29_bj.mp4" length="0" type="video/mp4" />
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2015/2015_zjj_jishou.mp4" length="245259695" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2015/2015_wedding_li.mp4" length="126406116" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2015/2015_wedding_xi.mp4" length="186729551" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2015/2015_wedding_mao.mp4" length="826678999" type="video/mp4" />
 
 			</item>
 	</channel>
