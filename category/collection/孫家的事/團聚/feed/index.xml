@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>團聚</title>
+	<atom:link href="/category/collection/%E5%AD%AB%E5%AE%B6%E7%9A%84%E4%BA%8B/%E5%9C%98%E8%81%9A/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 12 Jan 2025 07:02:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>孫家大团聚</title>
+		<link>/%e5%ad%ab%e5%ae%b6%e5%a4%a7%e5%9b%a2%e8%81%9a/</link>
+		
+		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2011 06:48:00 +0000</pubDate>
+				<category><![CDATA[Collection]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[團聚]]></category>
+		<category><![CDATA[孫家的事]]></category>
+		<guid isPermaLink="false">/?p=4093</guid>
+
+					<description><![CDATA[2011-09-30]]></description>
+		
+		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/20110930_大团聚1720.mp4" length="340913914" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>
