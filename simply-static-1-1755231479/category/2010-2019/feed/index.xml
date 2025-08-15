@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2010-2019</title>
+	<atom:link href="/category/2010-2019/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Jan 2025 21:58:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.3</generator>
+	<item>
+		<title>感恩2019</title>
+		<link>/%e6%84%9f%e6%81%a92019/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 17 Dec 2023 04:43:47 +0000</pubDate>
+				<category><![CDATA[2019]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">/?p=3166</guid>
+
+					<description><![CDATA[Santa Monica 過豬年 春 初夏 Boston &#8211; George PhD畢業 秋 冬 中國行-廬山黃山承德]]></description>
+		
+		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2019-01-聖塔莫妮卡.mp4" length="59686425" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2019-02-豬年.mp4" length="21777811" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2019-03-春.mp4" length="38615900" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2019-04-初夏.mp4" length="188553954" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2019-05-Boston.mp4" length="343704801" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2019-06-秋.mp4" length="292243462" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2019-08-冬.mp4" length="87594604" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>感恩2018</title>
+		<link>/%e6%84%9f%e6%81%a92018/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 22 Apr 2019 18:15:12 +0000</pubDate>
+				<category><![CDATA[2018]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">/?p=3004</guid>
+
+					<description><![CDATA[數二40年 中國行 洛杉磯-1 溫哥華 洛杉磯-2]]></description>
+		
+		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2018-01-吉大數二40.mp4" length="67519903" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2018-02-中國行.mp4" length="208991565" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2018-03-洛杉磯.mp4" length="222236943" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2018-04-溫哥華.mp4" length="309382272" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2018-05-洛杉磯.mp4" length="400980062" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2010</title>
+	<atom:link href="/category/2010-2019/2010/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Jan 2025 07:12:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.3</generator>
+	<item>
+		<title>感恩2010</title>
+		<link>/%e6%84%9f%e6%81%a92010/</link>
+		
+		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
+		<pubDate>Mon, 21 Aug 2017 04:31:17 +0000</pubDate>
+				<category><![CDATA[2010]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">/?p=3474</guid>
+
+					<description><![CDATA[長春 世博 長沙 北京]]></description>
+		
+		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2010-回國探親-長春.mp4" length="430422341" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2010-回國探親-世博.mp4" length="170904177" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2010-回國探親-長沙.mp4" length="230282907" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/videos/2010-回國探親-北京.mp4" length="109600502" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>2010 再北京</title>
+		<link>/2010-%e5%86%8d%e5%8c%97%e4%ba%ac/</link>
+		
+		<dc:creator><![CDATA[ladongbeiren]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2011 00:13:13 +0000</pubDate>
+				<category><![CDATA[2010]]></category>
+		<category><![CDATA[2010-2019]]></category>
+		<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">/?p=3788</guid>
+
+					<description><![CDATA[深圳至北京 董事長 靈境胡同 何磊 孫軍家 全聚德，奧運村 姥姥，故宮，橋宴 北京經溫哥華至洛杉磯]]></description>
+		
+		
+		<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2010/27zaibeijing.mp4" length="71208505" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2010/28dongshizhang.mp4" length="44384951" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2010/29lingjinghutong.mp4" length="340205061" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2010/30helei.mp4" length="31419879" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2010/31junjia.mp4" length="58562488" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2010/32quanjudeaoyun.mp4" length="54239390" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2010/33llggxiaoqiao.mp4" length="301781920" type="video/mp4" />
+<enclosure url="https://family-sun.s3.us-west-1.amazonaws.com/2010/34byebeijing.mp4" length="151474260" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>
