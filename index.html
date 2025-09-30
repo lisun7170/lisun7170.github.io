@@ -285,8 +285,8 @@ var vantage = {"fitvids":"1"};
 /* <![CDATA[ */
 var metaslider_2756 = function($) {$('#metaslider_2756').addClass('flexslider');
             $('#metaslider_2756').flexslider({ 
-                slideshowSpeed:6000,
-                animation:"fade",
+                slideshowSpeed:3000,
+                animation:"slide",
                 controlNav:true,
                 directionNav:true,
                 pauseOnHover:true,
@@ -294,17 +294,81 @@ var metaslider_2756 = function($) {$('#metaslider_2756').addClass('flexslider');
                 reverse:false,
                 keyboard:true,
                 touch:true,
-                animationSpeed:3000,
+                animationSpeed:600,
                 prevText:"&lt;",
                 nextText:"&gt;",
                 smoothHeight:false,
                 fadeFirstSlide:false,
+                easing:"linear",
                 slideshow:true,
                 pausePlay:false,
                 showPlayText:false,
                 playText:false,
                 pauseText:false,
                 start: function(slider) {
+                
+                    // Wait for DOM to be ready and FlexSlider to render controls
+                    setTimeout(function() {
+                        var nav = $('#metaslider_2756 .flex-control-nav');
+                        if (nav.length) {
+                            nav.attr('role', 'tablist');
+                        }
+
+                        function updateSliderTabindex() {
+                            var slider_ = $('#metaslider_2756');
+                            var isSliderHidden = slider_.closest('[aria-hidden="true"]').length > 0 || 
+                                                slider_.is('[aria-hidden="true"]') || 
+                                                !slider_.is(':visible');
+                            
+                            if (isSliderHidden) {
+                                slider_.find('a, button, [tabindex]').attr('tabindex', '-1');
+                            } else {
+                                slider_.find('.slides li[aria-hidden="true"] a, .slides li[aria-hidden="true"] button, .slides li[aria-hidden="true"] [tabindex]').attr('tabindex', '-1');
+                                slider_.find('.slides li.clone a, .slides li.clone button, .slides li.clone [tabindex]').attr('tabindex', '-1');
+                                slider_.find('.flex-control-nav a:not(.flex-active)').attr('tabindex', '-1');
+                                slider_.find('.flex-control-nav a.flex-active').removeAttr('tabindex');
+                                slider_.find('.slides li:not(.flex-active-slide):not([aria-hidden="true"]):not(.clone) a').attr('tabindex', '-1');
+                                slider_.find('.slides li.flex-active-slide:not([aria-hidden="true"]):not(.clone) a').removeAttr('tabindex');
+                            }
+                        }
+
+                        updateSliderTabindex();
+
+                        if (typeof MutationObserver !== 'undefined') {
+                            var observer = new MutationObserver(function(mutations) {
+                                var shouldUpdate = false;
+                                mutations.forEach(function(mutation) {
+                                    if (mutation.type === 'attributes' &&
+                                        (mutation.attributeName === 'aria-hidden' || mutation.attributeName === 'style' || mutation.attributeName === 'class')) {
+                                        shouldUpdate = true;
+                                    }
+                                    if (mutation.type === 'childList') {
+                                        shouldUpdate = true;
+                                    }
+                                });
+                                if (shouldUpdate) {
+                                    updateSliderTabindex();
+                                }
+                            });
+
+                            var targetNode = $('#metaslider_2756')[0];
+                            if (targetNode) {
+                                observer.observe(targetNode, { 
+                                    attributes: true, 
+                                    attributeFilter: ['aria-hidden', 'style', 'class'],
+                                    childList: true,
+                                    subtree: true
+                                });
+
+                                var parent = targetNode.parentNode;
+                                while (parent && parent !== document.body) {
+                                    observer.observe(parent, { attributes: true, attributeFilter: ['aria-hidden', 'style'] });
+                                    parent = parent.parentNode;
+                                }
+                            }
+                        }
+                    }, 0);
+                    
                 
                 // Function to disable focusable elements in aria-hidden slides
                 function disableAriaHiddenFocusableElements() {
@@ -356,8 +420,40 @@ var metaslider_2756 = function($) {$('#metaslider_2756').addClass('flexslider');
                     }
                 }
                 
+                
+                    $('#metaslider_2756 .flex-control-nav a.flex-active').attr('aria-current', 'true');
+                    $('#metaslider_2756 .flex-control-nav a:not(.flex-active)').removeAttr('aria-current');
+                    
+                document.addEventListener('click', function (event) {
+                        if (event.target.closest('[role=\'tab\']')) {
+                            $('#metaslider_2756').resize();
+                        }
+                    });
                 },
                 after: function(slider) {
+                
+                    // Update tabindex after slide change, respecting aria-hidden state
+                    var slider_ = $('#metaslider_2756');
+                    var isSliderHidden = slider_.closest('[aria-hidden="true"]').length > 0 || 
+                                    slider_.is('[aria-hidden="true"]') || 
+                                    !slider_.is(':visible');
+
+                    if (!isSliderHidden) {
+                        // Disable focusable elements in slides with aria-hidden='true'
+                        slider_.find('.slides li[aria-hidden="true"] a, .slides li[aria-hidden="true"] button, .slides li[aria-hidden="true"] [tabindex]').attr('tabindex', '-1');
+                        
+                        // Disable focusable elements in cloned slides
+                        slider_.find('.slides li.clone a, .slides li.clone button, .slides li.clone [tabindex]').attr('tabindex', '-1');
+                        
+                        // Normal focus management for navigation
+                        slider_.find('.flex-control-nav a.flex-active').removeAttr('tabindex');
+                        slider_.find('.flex-control-nav a:not(.flex-active)').attr('tabindex', '-1');
+                        
+                        // Only allow focus on active slide that's not aria-hidden or cloned
+                        slider_.find('.slides li:not(.flex-active-slide):not([aria-hidden="true"]):not(.clone) a').attr('tabindex', '-1');
+                        slider_.find('.slides li.flex-active-slide:not([aria-hidden="true"]):not(.clone) a').removeAttr('tabindex');
+                    }
+                    
                 
                 // Re-disable focusable elements after slide transitions
                 var slider_ = $('#metaslider_2756');
@@ -368,6 +464,10 @@ var metaslider_2756 = function($) {$('#metaslider_2756').addClass('flexslider');
                 // Disable focusable elements in cloned slides
                 slider_.find('.slides li.clone a, .slides li.clone button, .slides li.clone input, .slides li.clone select, .slides li.clone textarea, .slides li.clone [tabindex]:not([tabindex="-1"])').attr('tabindex', '-1');
                 
+                
+                    $('#metaslider_2756 .flex-control-nav a.flex-active').attr('aria-current', 'true');
+                    $('#metaslider_2756 .flex-control-nav a:not(.flex-active)').removeAttr('aria-current');
+                    
                 }
             });
             $(document).trigger('metaslider/initialized', '#metaslider_2756');
@@ -378,12 +478,13 @@ var metaslider_2756 = function($) {$('#metaslider_2756').addClass('flexslider');
         timer_metaslider_2756();
 /* ]]> */
 </script>
-<div id="metaslider-id-2756" style="max-width: 2000px;" class="ml-slider-3-101-0 metaslider metaslider-flex metaslider-2756 ml-slider has-dots-nav ms-theme-default" role="region" aria-label="homeslider" data-height="400" data-width="2000">
+<div id="metaslider-id-2756" style="max-width: 3000px;" class="ml-slider-3-101-0 metaslider metaslider-flex metaslider-2756 ml-slider has-dots-nav ms-theme-default" role="region" aria-label="homeslider" data-height="1500" data-width="3000">
     <div id="metaslider_container_2756">
         <div id="metaslider_2756">
-            <ul class="slides">
-                <li style="display: block; width: 100%;" class="slide-2764 ms-image " aria-roledescription="slide" data-date="2015-06-15 16:17:40"><img src="/wp-content/uploads/2015/06/wssj04.jpg" height="400" width="2000" alt="" class="slider-2756 slide-2764 msDefaultImage"></li>
-                <li style="display: none; width: 100%;" class="slide-2763 ms-image " aria-roledescription="slide" data-date="2015-06-15 16:17:36"><img src="/wp-content/uploads/2015/06/wssj03.jpg" height="400" width="2000" alt="" class="slider-2756 slide-2763 msDefaultImage"></li>
+            <ul aria-live="off" class="slides">
+                <li style="display: block; width: 100%;" class="slide-4419 ms-image " aria-roledescription="slide" data-date="2025-09-29 20:24:26"><img src="/wp-content/uploads/2016/01/image12-1600x800.jpeg" height="1500" width="3000" alt="" class="slider-2756 slide-4419 msDefaultImage" title="image"><div class="caption-wrap"><div class="caption"><div><strong>網.上.孫.家</strong></div></div></div></li>
+                <li style="display: none; width: 100%;" class="slide-4420 ms-image " aria-roledescription="slide" data-date="2025-09-29 20:38:17"><img src="/wp-content/uploads/2016/01/image5-1600x800.jpeg" height="1500" width="3000" alt="" class="slider-2756 slide-4420 msDefaultImage" title="image"><div class="caption-wrap"><div class="caption"><div><strong>網.上.孫.家</strong></div></div></div></li>
+                <li style="display: none; width: 100%;" class="slide-4421 ms-image " aria-roledescription="slide" data-date="2025-09-29 20:38:44"><img src="/wp-content/uploads/2016/01/image-900x450.jpeg" height="1500" width="3000" alt="" class="slider-2756 slide-4421 msDefaultImage" title="image"><div class="caption-wrap"><div class="caption"><div><strong>網.上.孫.家</strong></div></div></div></li>
             </ul>
         </div>
         
@@ -445,6 +546,7 @@ var wpData = {"baseUrl":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="/wp-content/plugins/ml-slider/assets/metaslider/script.min.js?ver=3.101.0" id="metaslider-script-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=3.101.0" id="metaslider-easing-js"></script>
 
 </body>
 </html>
